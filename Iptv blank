@@ -422,6 +422,10 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 #EXTINF:-1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
 http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Lifestyle ",80.Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Lifestyle ",80.Travel XP Hindi
+https://piratesiptv.shortcm.li/travelxp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Lifestyle",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelXP(src07).in(m3u4u)" tvg-name="Travel XP" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Lifestyle",Travel XP
@@ -430,4 +434,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVT TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbun_uTXFjIphEphr32QLRMM6uOxJ2haH-gw&usqp=CAU" group-title="Lifestyle",TVT TV HD
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
 
