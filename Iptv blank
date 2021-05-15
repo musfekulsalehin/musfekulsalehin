@@ -1,7 +1,7 @@
 #EXTM3U8
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.05.2021]  Time [05:40pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.05.2021]  Time [06:00pm]",
 
 BANGLADESH
 
@@ -300,6 +300,22 @@ http://starshare.live:8080/live/7383236789/2773376789/185.m3u8
 http://starshare.live:8080/live/7383236789/2773376789/191.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",Zee Cafe HD
 http://starshare.live:8080/live/7383236789/2773376789/196.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",Fox HD
+https://piratesiptv.shortcm.li/foxhd.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",Fox Life HD
+https://piratesiptv.shortcm.li/foxlife.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",AXN
+https://piratesiptv.shortcm.li/axn.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO
+https://piratesiptv.shortcm.li/hbo.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO Family
+https://piratesiptv.shortcm.li/hbofamily.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO Hits [1]
+https://piratesiptv.shortcm.li/hbohits1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO Hits [2]
+https://piratesiptv.shortcm.li/hbohits2.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO Signature
+https://piratesiptv.shortcm.li/hbosig.m3u8
 
 
 
