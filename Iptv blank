@@ -100,17 +100,23 @@ http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv01826655778
 
 *HINDI
 
-#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
-https://
+
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",155.Zee Bollywood
+https://piratesiptv.shortcm.li/zbollywood.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",156.Zee Bioskop
+https://piratesiptv.shortcm.li/zbioskop.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",157.Zee Cinema
+https://piratesiptv.shortcm.li/zcinema1.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",157.Zee Cinema ME
+https://piratesiptv.shortcm.li/zcinema2.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",157.Zee Cinema UK
+https://piratesiptv.shortcm.li/zcinema3.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",157.Zee Cinema USA
+https://piratesiptv.shortcm.li/zcinema4.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",158.Zee Mundo
+https://piratesiptv.shortcm.li/zmundo.m3u8
 
 
-Sony TV link
-#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title=" Hindi ",Sony [1]
-http://103.205.133.21/hls/chs.m3u8
-#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title=" Hindi ",Star Plus [1]
-http://103.205.133.21/hls/chsp.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title=" Hindi ",Zee TV [1]
-http://103.205.133.21/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3Aq3_P0CBcD4KKC9OHbrUrT3gKp-7J6TQ_UfRLAluaFU_N9Fc&usqp=CAU" group-title=" Hindi ",Wow Cinema [1]
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title=" Hindi ",Zee Cinema [1]
@@ -123,8 +129,6 @@ http://103.205.133.21/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzu-b5btRQeV5JJEecxY3SA-l-qCIpwic1RJphzXl8JyfLPojv&usqp=CAU" group-title=" Hindi ",Zee Salam [1]
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title=" Hindi ",Sony Pix [1]
-http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",121.ABZY Movies
 https://piratesiptv.shortcm.li/abzy.m3u8
@@ -136,16 +140,77 @@ https://piratesiptv.shortcm.li/ganga.m3u8
 https://piratesiptv.shortcm.li/bpremier.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",125.Box Cinema
 https://piratesiptv.shortcm.li/boxcinema.m3u8
-#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",126.Dabang TV
-https://piratesiptv.shortcm.li/dabang.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",127.Maha Movie
 https://piratesiptv.shortcm.li/maha.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",128.Manoranjan Movies
 https://piratesiptv.shortcm.li/manoranjan.m3u8
+
+
+
+Sony TV link
+#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title=" Hindi ",Sony [1]
+http://103.205.133.21/hls/chs.m3u8
+#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title=" Hindi ",Star Plus [1]
+http://103.205.133.21/hls/chsp.m3u8
+#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title=" Hindi ",Zee TV [1]
+http://103.205.133.21/hls/zeetvhd.m3u8
+
+
+
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",126.Dabang TV
+https://piratesiptv.shortcm.li/dabang.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",129.MH 1
 https://piratesiptv.shortcm.li/mh1.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",130.Wow Cinema
 https://piratesiptv.shortcm.li/wow.m3u8
+
+
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",159.Zee TV
+https://piratesiptv.shortcm.li/zeetv.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",159.Zee TV HD
+https://piratesiptv.shortcm.li/zeetvhd.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",160.Zee Zest HD
+https://piratesiptv.shortcm.li/zeezest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title=" Hindi ",Sony Pix [1]
+http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
+
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
+https://
+
+
+
 
 
 
