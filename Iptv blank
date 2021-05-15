@@ -146,8 +146,9 @@ http://starshare.live:8080/live/7383236789/2773376789/210.m3u8
 Zee Bioscop
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Zee Bioskop
 https://piratesiptv.shortcm.li/zbioskop.m3u8
-#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Zee Bioskop [2]
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title=" Hindi ",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
+
 
 
 *Zee Cinema
