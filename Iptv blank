@@ -126,6 +126,30 @@ http://103.205.133.21/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title=" Hindi ",Sony Pix [1]
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",121.ABZY Movies
+https://piratesiptv.shortcm.li/abzy.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",122.Bflix Movies
+https://piratesiptv.shortcm.li/bflix.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",123.Big Ganga
+https://piratesiptv.shortcm.li/ganga.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",124.Bollywood Premier
+https://piratesiptv.shortcm.li/bpremier.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",125.Box Cinema
+https://piratesiptv.shortcm.li/boxcinema.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",126.Dabang TV
+https://piratesiptv.shortcm.li/dabang.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",127.Maha Movie
+https://piratesiptv.shortcm.li/maha.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",128.Manoranjan Movies
+https://piratesiptv.shortcm.li/manoranjan.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",129.MH 1
+https://piratesiptv.shortcm.li/mh1.m3u8
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",130.Wow Cinema
+https://piratesiptv.shortcm.li/wow.m3u8
+
+
+
+
 
 
 *ENGLISH
