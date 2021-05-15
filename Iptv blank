@@ -205,10 +205,13 @@ http://103.205.133.21/hls/chsp.m3u8
 http://209.126.120.153/hls/chsp.m3u8
 #EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="Hindi",Star Plus [3]
 http://209.126.120.153:80/hls/chsp.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Hindi",147.Star Plus [4]
+https://piratesiptv.shortcm.li/plus.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Hindi",Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/sohel.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Hindi",Star Plus HD [2]
 http://starshare.live:8080/live/7383236789/2773376789/167.m3u8
+
 
 
 
