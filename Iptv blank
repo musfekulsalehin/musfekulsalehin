@@ -134,10 +134,14 @@ http://starshare.live:8080/live/7383236789/2773376789/151.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",155.Zee Bollywood
 https://piratesiptv.shortcm.li/zbollywood.m3u8
 
-#EXTINF:0 tvg-language=" Mithun_Khan " tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Star Gold HD
+STAR GOLD
+#EXTINF:0 tvg-language=" Mithun_Khan " tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Star Gold HD (1)
 http://starshare.live:8080/live/7383236789/2773376789/194.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Star Gold HD (2)
+https://ott.bingebd.com/live/ngrp:star_gold_all/sohel.m3u8
 #EXTINF:0 tvg-language=" Mithun_Khan " tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Star Gold Select HD
 http://starshare.live:8080/live/7383236789/2773376789/210.m3u8
+
 
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",156.Zee Bioskop
 https://piratesiptv.shortcm.li/zbioskop.m3u8
