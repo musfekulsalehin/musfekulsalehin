@@ -264,8 +264,23 @@ https://
 
 *ENGLISH
 
-#EXTINF:0 tvg-logo="XXX" group-title="English", XXX
+#EXTINF:0 tvg-logo="XXX" group-title="English", Coming New Channel
 https://
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" English ",HBO
+http://starshare.live:8080/live/7383236789/2773376789/95.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",HBO 2
+http://starshare.live:8080/live/7383236789/2773376789/185.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",MNX
+http://starshare.live:8080/live/7383236789/2773376789/191.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",Zee Cafe HD
+http://starshare.live:8080/live/7383236789/2773376789/196.m3u8
+
+
+
+
+
+
 
 *Sports
 
