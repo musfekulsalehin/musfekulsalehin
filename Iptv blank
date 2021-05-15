@@ -172,6 +172,13 @@ https://piratesiptv.shortcm.li/zcinema3.m3u8
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",157.Zee Cinema USA
 https://piratesiptv.shortcm.li/zcinema4.m3u8
 
+*Zee Anmol
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Zee Anmol Cinama
+https://piratesiptv.shortcm.li/zanmol.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title=" Hindi ",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+
+
 
 #EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",158.Zee Mundo
 https://piratesiptv.shortcm.li/zmundo.m3u8
