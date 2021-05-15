@@ -119,7 +119,18 @@ http://103.205.133.21/hls/dhoommusic.m3u8
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="Indian Bangla",Sangeet Bangla [2]
 http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Indian Bangla ",54.Enter 10 Bangla
+https://piratesiptv.shortcm.li/e10b.m3u8
 
+INDIAN BANGLA NEWS
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Indian Bangla ",51.ABP Ananda
+https://piratesiptv.shortcm.li/abp.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Indian Bangla ",52.Calcutta News
+https://piratesiptv.shortcm.li/cnews.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Indian Bangla ",53.DD Bangla
+https://piratesiptv.shortcm.li/dd.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Indian Bangla ",55.News 18 Bangla
+https://piratesiptv.shortcm.li/n18b.m3u8
 
 
 
