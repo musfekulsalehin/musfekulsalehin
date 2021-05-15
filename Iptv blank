@@ -407,3 +407,26 @@ https://piratesiptv.shortcm.li/popularsc.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOCH/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b798594ea4703895a13c15835ab3644651242a882479d4ed734e49a6fbcfac2e76c84bbbed6abe3475fa67edcfb90c3a58b9563f440bc1dbbd25c005aa782b5d537c3dd05dc2ffaf3f6f02d57a6b2&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 
+
+LIFE STYLE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="Lifestyle",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle(src01).pl(m3u4u)" tvg-name="BBC Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1280px-BBC_Lifestyle2.svg.png" group-title="Lifestyle",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food 52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Lifestyle",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FoxLife.es(m3u4u)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Lifestyle",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="Lifestyle",HDFashion
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Lifestyle",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP(src07).in(m3u4u)" tvg-name="Travel XP" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Lifestyle",Travel XP
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP HD (Hindi)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwg5m9sxPbnwofb_gHvUxpWxk1lJXZF_chi3kbd96tgBssa2pR&usqp=CAU" group-title="Lifestyle",Travel XP HD (Hindi)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVT TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbun_uTXFjIphEphr32QLRMM6uOxJ2haH-gw&usqp=CAU" group-title="Lifestyle",TVT TV HD
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
