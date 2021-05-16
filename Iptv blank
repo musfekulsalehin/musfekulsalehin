@@ -79,21 +79,21 @@ http://103.205.133.21/hls/tsports.m3u8
 
 
 BANGLA NEWS CHANNEL
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangla News",ATN News [1]
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangla News",ATN News
 http://103.205.133.21/hls/atnnews.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News [1]
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
 http://103.205.133.21/hls/dbcnews.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla News",Somoy TV [1]
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla News",Somoy TV
 http://103.205.133.21/hls/somoy.m3u8
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangla News",CHANNEL 24 [1]
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangla News",CHANNEL 24
 http://103.205.133.21/hls/channel24.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla News",Ekattor [1]
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla News",Ekattor
 http://103.205.133.21/hls/ekatoortv.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangla News",Jamuna TV [1]
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangla News",Jamuna TV
 http://103.205.133.21/hls/jamunatv.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangla News",News 24 [1]
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangla News",News 24
 http://103.205.133.21/hls/news24.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV [1]
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV
 http://103.205.133.21/hls/ekushey.m3u8
 
 
