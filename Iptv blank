@@ -159,7 +159,7 @@ Zee Bioscop
 https://piratesiptv.shortcm.li/zbioskop.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title=" Hindi ",Zee Bioskop 2
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies",Zee Bioskop 3
+#EXTINF:0 tvg-language="Mithun_Khan" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title=" Hindi ",Zee Bioskop 3
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?
 
 
