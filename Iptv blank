@@ -96,7 +96,7 @@ http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangla News",News 24
 http://103.205.133.21/hls/news24.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV
-http://103.205.133.21/hls/ekushey.m3u8
+http://209.126.120.153/hls/ekushey.m3u8
 
 
 
@@ -199,7 +199,6 @@ http://103.205.133.21/hls/andpicture.m3u8
 http://103.205.133.21/hls/andtv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzu-b5btRQeV5JJEecxY3SA-l-qCIpwic1RJphzXl8JyfLPojv&usqp=CAU" group-title=" Hindi ",Zee Salam [1]
 
 
 
