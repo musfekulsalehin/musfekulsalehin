@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [15.05.2021]  Time [09:33pm]",
+#EXTINF:-1 tvg-logo="" group-title="সর্বশেষ আপডেট      Date [17.05.2021]  Time [09:33pm]",
 
 
 BANGLADESH
@@ -97,11 +97,12 @@ http://103.205.133.21/hls/jamunatv.m3u8
 http://103.205.133.21/hls/news24.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV
 http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla News",Ekushey TV
+http://103.205.133.21/hls/ekushey.m3u8
 
 
 
-
-INDIAN BANGLA
+*INDIAN BANGLA
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="Indian Bangla",Ruposhi Bangla [1]
 http://103.205.133.21/hls/ruposhibangla.m3u8
