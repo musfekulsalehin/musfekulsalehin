@@ -297,8 +297,8 @@ http://starshare.live:8080/live/7383236789/2773376789/147.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title=" Hindi ",Sony Pix [2]
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 
-#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
-https://
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", travel xp hindi..
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
 #EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
 https://
