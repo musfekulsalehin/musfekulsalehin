@@ -300,8 +300,8 @@ http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 #EXTINF:0 tvg-logo="XXX" group-title="Hindi", travel xp hindi..
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
-#EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
-https://
+#EXTINF:0 tvg-logo="XXX" group-title="Hindi", Sony Max HD
+http://208.115.215.42:80/SonY_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="XXX" group-title="Hindi", XXX
 https://
